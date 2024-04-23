@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "flightNumber": "ABC123",
+      "departure": "New York",
+      "arrival": "Los Angeles",
+      "date": "2024-05-01",
+      "price": 200
+    },
+    {
+      "id": 2,
+      "flightNumber": "XYZ456",
+      "departure": "Los Angeles",
+      "arrival": "New York",
+      "date": "2024-05-02",
+      "price": 250
+    }
+    
+  ]
+  

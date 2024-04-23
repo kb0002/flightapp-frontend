@@ -1,0 +1,30 @@
+/* Tabs.css */
+
+.tabs {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .tabs button {
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px 5px 0 0;
+    cursor: pointer;
+  }
+  
+  .tabs button.active {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .return-date {
+    margin-top: 10px;
+  }
+  
+  .return-date label {
+    margin-right: 10px;
+  }
+  
